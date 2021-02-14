@@ -1025,7 +1025,7 @@ Public License instead of this License.  But first, please read
 
     // CREATE THE CHOSEN BADGES
     // set up an array of color to choose from, and make a function(index)
-    const returnColor = y => ["blue", "darkgreen", "purple", "critical", "saddlebrown", "indigo", "hotpink"][y];
+    const returnColor = y => ["blue", "darkgreen", "purple", "critical", "saddlebrown", "indigo", "hotpink", "rebeccapurple", "skyblue", "gold"][y];
     // set up an array of label messages to choose from, and make a function(index)
     const returnMsg = z => ["100%25", "Rebel", "Fortitude", "Destiny", "Steadfast"][z];
     // insert each chosen badge in the array into readable markdown text
