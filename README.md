@@ -7,21 +7,11 @@ ${userInput.githubDeployed}
 ${userInput.githubRepo}
 
 
-## Badges
-
-* ${userInput.badges}
-* ![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)
-
-
-
-## License
-
-${userInput.license}
-
-
 
 ## Table of Contents
 
+* [Badges](#badges)
+* [License](#license)
 * [Description](#description)
 * [Features](#features)
 * [Installation](#installation)
@@ -30,6 +20,21 @@ ${userInput.license}
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+
+
+
+## Badges
+
+![MD](https://img.shields.io/badge/Markdown-100%25-blue)  
+![JS](https://img.shields.io/badge/JavaScript-Strife-darkgreen)  
+![NODE](https://img.shields.io/badge/NodeJS-Steadfast-saddlebrown)  
+![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)  
+
+
+
+## License
+
+${userInput.license}
 
 
 
@@ -89,4 +94,4 @@ ${userInput.tests}
 
 
 
-&copy; ${currentYear} ${userInput.name}`;
+&copy; 2021 Sam Kim
