@@ -1,10 +1,10 @@
-# Title
+# title
     
 **Deployed application URL**
-URL
+url
 
 **GitHub Repository URL**
-URL
+url
 
 
 
@@ -25,7 +25,7 @@ URL
 
 ## Badges
 
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-undefined-indigo)<br/>![Javascript](https://img.shields.io/badge/Javascript-Rebel-hotpink)<br/>![Bootstrap 5.0](https://img.shields.io/badge/Bootstrap%205.0-Fortitude-saddlebrown)<br/>![jQuery](https://img.shields.io/badge/jQuery-Fortitude-hotpink)<br/>![DOM](https://img.shields.io/badge/DOM-Steadfast-saddlebrown)<br/>![API](https://img.shields.io/badge/API-undefined-darkgreen)<br/>![NodeJS](https://img.shields.io/badge/NodeJS-100%25-critical)<br/>
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Destiny-indigo)<br/>![Javascript](https://img.shields.io/badge/Javascript-Destiny-darkgreen)<br/>![Bootstrap 5.0](https://img.shields.io/badge/Bootstrap%205.0-100%25-blue)<br/>![jQuery](https://img.shields.io/badge/jQuery-Endurance-indigo)<br/>![DOM](https://img.shields.io/badge/DOM-100%25-critical)<br/>![API](https://img.shields.io/badge/API-Destiny-saddlebrown)<br/>![NodeJS](https://img.shields.io/badge/NodeJS-Fortitude-darkgreen)<br/>
 
 
 
@@ -33,7 +33,7 @@ URL
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2021] [full name]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -66,7 +66,7 @@ unmet
 
 
 ### What were your goals?
-goal
+goals
 
 
 ### What have you done about it?
@@ -100,7 +100,7 @@ credits
 
 ## Tests
 
-softwares tests
+tests
 
 
 
@@ -111,4 +111,4 @@ softwares tests
 
 
 
-&copy; 2021 my name
+&copy; 2021 full name
