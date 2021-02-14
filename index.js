@@ -35,14 +35,12 @@ async function askUser() {
             message: 'What badge do you want to include?',
             name: 'badges',
             choices: ['HTML/CSS', 'Javascript', 'Bootstrap 5.0', 'jQuery', 'DOM', 'API', 'NodeJS'],
-            validate: (value) => { if (value) { return true } else { return 'You need to include a badge to continue.' } },
         },
         {
             type: 'list',
             message: 'Which license would you like?',
             name: 'license',
             choices: ['Apache 2.0', 'MIT', 'GNU GPL'],
-            validate: (value) => { if (value) { return true } else { return 'You need to choose a license to continue.' } },
         },
         {
             type: 'input',
@@ -1079,19 +1077,19 @@ ${yourLicense}
 ## Description 
 
 ### What needs are we meeting?
-- ${userInput.needs}
+${userInput.needs}
 
 
 ### What would be the foreseeable consequences if the needs are unmet?
-- ${userInput.needsUnmet}
+${userInput.needsUnmet}
 
 
 ### What were your goals?
-- ${userInput.goals}
+${userInput.goals}
 
 
 ### What have you done about it?
-- ${userInput.done}
+${userInput.done}
 
 
 
@@ -1103,13 +1101,13 @@ ${userInput.installation}
 
 ## Features
 
-* ${userInput.features}
+${userInput.features}
 
 
 
 ## Credits
 
-* ${userInput.credits}
+${userInput.credits}
 
 
 
