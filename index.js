@@ -78,7 +78,7 @@ function makeREADME(userInput) {
 
     ## Credits
     
-    ${userInput.credits}
+    * ${userInput.credits}
 
 
     
