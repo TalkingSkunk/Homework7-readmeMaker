@@ -1027,7 +1027,7 @@ Public License instead of this License.  But first, please read
     // set up an array of color to choose from, and make a function(index)
     const returnColor = y => ["blue", "darkgreen", "purple", "critical", "saddlebrown", "indigo", "hotpink", "rebeccapurple", "skyblue", "gold"][y];
     // set up an array of label messages to choose from, and make a function(index)
-    const returnMsg = z => ["100%25", "Rebel", "Fortitude", "Destiny", "Steadfast"][z];
+    const returnMsg = z => ["100%25", "Rebel", "Fortitude", "Destiny", "Steadfast", "Endurance", "EuStress"][z];
     // insert each chosen badge in the array into readable markdown text
     const badgeStored = userInput.badges.map(x => `![${x}](https://img.shields.io/badge/${encodeURIComponent(x)}-${returnMsg(Math.floor(Math.random() * userInput.badges.length))}-${returnColor(Math.floor(Math.random() * userInput.badges.length))})<br/>`);
     // concat all the items in the array into one markdown text
