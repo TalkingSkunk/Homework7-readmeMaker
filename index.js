@@ -1058,7 +1058,7 @@ ${userInput.githubRepo}
 * [Credits](#credits)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
+* [Contact](#contact)
 
 
 
@@ -1125,7 +1125,7 @@ ${userInput.tests}
 
 ## Contact
 
-**GitHub: ${userInput.github}**
+**GitHub: ${userInput.github}**  
 **Email: ${userInput.email}**
 
 
@@ -1134,8 +1134,8 @@ ${userInput.tests}
     }
     const readmeGenerated = makeREADME(userInput)
     // 3. WRITEFILESYNC
-    fs.writeFileSync('README2.md', readmeGenerated);
+    fs.writeFileSync('sampleREADME.md', readmeGenerated);
     // 4. CONSOLE.LOG TO NOTIFY COMPLETION
-    console.log(`\n* Your new markdown file [README2.md] is created. *`)
+    console.log(`\n* Your new file [sampleREADME.md] is created. *`)
 }
 askUser();
