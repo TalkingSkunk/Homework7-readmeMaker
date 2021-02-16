@@ -13,9 +13,8 @@ https://github.com/TalkingSkunk/Homework7-readmeMaker
 * [Badges](#badges)
 * [License](#license)
 * [Description](#description)
-* [Features](#features)
 * [Installation](#installation)
-* [Usage](#usage)
+* [Features](#features)
 * [Credits](#credits)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -81,6 +80,7 @@ SOFTWARE.
 * All goals are met.
 
 
+
 ## Installation
 
 * You need to install nodejs to your local computer.
@@ -88,6 +88,7 @@ SOFTWARE.
     1. ``` npm init -y ```
     2. ``` npm install inquirer ```
 * Run ``` node index.js ``` on your command line, and follow the prompts.
+
 
 
 ## Features
@@ -109,7 +110,6 @@ SOFTWARE.
 ### Tutorials
 * https://developer.mozilla.org/
 * https://stackoverflow.com/
-
 
 
 
