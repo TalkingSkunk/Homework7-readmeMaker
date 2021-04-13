@@ -4,7 +4,7 @@
 https://drive.google.com/file/d/1BY9c9PR3NuLoif1sfpNufLUHuShWWIvr/view
 
 **GitHub Repository URL**
-https://github.com/TalkingSkunk/Homework7-readmeMaker
+https://github.com/TalkingSkunk/readmeMaker
 
 
 
